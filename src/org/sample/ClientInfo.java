@@ -14,11 +14,17 @@ public class ClientInfo extends CompanyInfo {
 		 s.empId();
 		 s.compId();
 		 s.compName();
+<<<<<<< HEAD
+		 System.out.println("babu");
+		 System.out.println("raj");
+		 
+=======
 		 
 		 System.out.println("sql");
 		 System.out.println("lakshan");
 		 System.out.println("ritish");
 		 System.out.println("ajith");
+>>>>>>> 7b22a6022a7d37ee4858b17608526e126a7b7aad
 	}
 
 }
